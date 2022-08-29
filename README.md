@@ -1,6 +1,6 @@
-### Hi! 👋
+## Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" />
 
-I'm Christian, a 20 years old Backend developer.
+I'm Christian, a 20 years old Backend developer and a Computer Science student.
 
 ### I work with :
 <div>
